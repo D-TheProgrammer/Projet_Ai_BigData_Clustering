@@ -11,7 +11,7 @@
 - Présentation en anglais / Presentation in English
 - Tuoriel dans les deux langues / Tutorial in both languages
 
-## [PRESENTATION EN FRANCAIS](#presentation_francais)
+## [PRESENTATION EN FRANCAIS]
 
 Project par D-TheProgrammer
 
@@ -28,7 +28,7 @@ Il est à noter que l'affichage graphique se réalise uniquement à la fin du pr
 > ````
 
 
-## [ENGLISH PRESENTATION]
+## [ENGLISH PRESENTATION](#presentation_francais)
 
 Project made by D-TheProgrammer
 
