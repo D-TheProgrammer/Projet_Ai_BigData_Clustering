@@ -7,11 +7,11 @@
 </div>
 
 #### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
+- [Présentation en francais / Presentation in French](#presentation_francais)
 - Présentation en anglais / Presentation in English
 - Tuoriel dans les deux langues / Tutorial in both languages
 
-## [PRESENTATION EN FRANCAIS]
+## [PRESENTATION EN FRANCAIS](#presentation_francais)
 
 Project par D-TheProgrammer
 
