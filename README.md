@@ -7,7 +7,7 @@
 </div>
 
 #### SOMMAIRE / SUMMARY
-- [Présentation en francais / Presentation in French](#https://github.com/D-TheProgrammer/Projet_Ai_BigData_Clustering/blob/main/README.md#presentation-en-francais)
+- [Présentation en francais / Presentation in French](#presentation-en-francais)
 - Présentation en anglais / Presentation in English
 - Tuoriel dans les deux langues / Tutorial in both languages
 
