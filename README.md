@@ -2,6 +2,12 @@
 [French] Projet de Clustering de données   
 [English] Data Clustering Project (First it will be the French README then the English README After)  
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-Clustering-blue)
+![Data Science](https://img.shields.io/badge/Data-Science-orange)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 <div align="center">
   <img width="579" alt="image" src="https://github.com/D-TheProgrammer/Projet_Ai_BigData_Clustering/assets/151149998/e3e1bc46-c4f0-4b71-82bc-cdd172eeb4c9">
 </div>
